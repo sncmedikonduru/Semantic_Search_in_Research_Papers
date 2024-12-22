@@ -1,5 +1,5 @@
 
-# Semantic Search in ArXiv Research Papers
+# Semantic Search in ML Research Papers
 
 This project implements a semantic search application using a subset of Machine Learning papers from the ArXiv dataset, specifically filtered and pre-processed for semantic analysis. The dataset is sourced from Hugging Face's datasets library under the repository 'CShorten/ML-ArXiv-Papers'.
 
