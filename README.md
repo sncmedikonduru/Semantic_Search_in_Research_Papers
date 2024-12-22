@@ -13,6 +13,10 @@ The dataset includes around 100,000 ML papers tagged with 'cs.LG' from the full 
 - **Efficient Preprocessing**: Combines titles and abstracts of papers to enhance the quality of text data fed into the model.
 - **Gradio Interface**: An easy-to-use web interface that allows users to perform searches and view results, including paper titles, abstracts, and similarity scores.
 
+## Demo
+
+Visit the live demo [here](https://huggingface.co/spaces/sncmedikonduru/Semantic_Search_in_Research_Papers) to explore the Gradio web interface and perform semantic searches directly.
+
 ## How It Works
 
 1. **Dataset Loading and Preprocessing**: The ArXiv dataset is loaded and preprocessed using the following steps:
